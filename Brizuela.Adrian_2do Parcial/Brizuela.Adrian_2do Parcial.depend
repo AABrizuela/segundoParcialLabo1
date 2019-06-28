@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1561663071 source:/home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/entregas.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+	"utn.h"
+	"informes.h"
+
+1561673549 /home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/parser.h
+	"LinkedList.h"
+
+1561663071 /home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/LinkedList.h
+
+1561663071 /home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/entregas.h
+
+1561673549 /home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/controller.h
+
+1561675233 /home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/utn.h
+
+1561680355 /home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/informes.h
+
+1561681352 source:/home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/informes.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"ventas.h"
+	"informes.h"
+
+1561681314 source:/home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561677620 source:/home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"parser.h"
+
+1561681313 source:/home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/parser.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"ventas.h"
+	"controller.h"
+
+1561679771 source:/home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/utn.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1561680723 /home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/ventas.h
+
+1561681385 source:/home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/controller.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"ventas.h"
+	"controller.h"
+	"informes.h"
+
+1561679933 source:/home/alumno/Brizuela.Adrian/Brizuela.Adrian_2do Parcial/ventas.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"ventas.h"
+	"controller.h"
+	"utn.h"
+	"informes.h"
+

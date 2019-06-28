@@ -1,0 +1,8 @@
+********************
+Informe de ventas
+********************
+- Cantidad total de fotos reveladas totales: 48133
+- Cantidad de ventas por un monto mayor a $150: 464
+- Cantidad de ventas por un monto mayor a $300: 442
+- Promedio de fotos polaroids reveladas: 171
+********************
